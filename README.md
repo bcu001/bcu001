@@ -1,4 +1,4 @@
-# Hi 👋, I'm Bhuwan Chandra Upadhyay
+# Hi 👋, I'm Bhuwan Upadhyay
 
 ### An experienced Javascript developer
 
